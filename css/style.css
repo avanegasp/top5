@@ -1,0 +1,28 @@
+body{
+  background: #e4e7e4;
+}
+
+th{
+  border: 1px solid black;
+}
+
+tr{
+  border: 1px solid black;
+}
+table{
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 65px;
+}
+
+.numero{
+  padding-right: 50px;
+}
+
+.artista{
+  padding-right: 250px;
+}
+
+.video{
+  padding-right: 150px
+}
