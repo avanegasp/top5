@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+#video{
+  background: black;
+  text-align: center;
+  margin-bottom: 30px;
+
+}
+
+a{
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  float: right;
+  margin-right: 100px;
+}

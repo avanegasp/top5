@@ -2,6 +2,20 @@ body{
   background: #e4e7e4;
 }
 
+tbody{
+  background: darkgrey;
+}
+
+td a{
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+td a:hover{
+  text-decoration: none;
+  color: whitesmoke;
+}
+
 th{
   border: 1px solid black;
 }
@@ -20,7 +34,7 @@ table{
 }
 
 .artista{
-  padding-right: 250px;
+  padding-right: 350px;
 }
 
 .video{
